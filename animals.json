@@ -1,0 +1,83 @@
+{
+  "results": [{
+    "name": "Wolf",
+    "population": 200000,
+    "location": "Europe, Asia, and North America",
+    "conservation_status": "Least concerned",
+    "weight": 72,
+    "habitat": "Arctic tundras, mountains, forests, and plains",
+    "photo_url": "https://a-z-animals.com/media/2021/05/Wild-Dog-Breeds_-Red-Wolf-1024x535.jpg"
+  }, {
+    "name": "Lion",
+    "population": 23000,
+    "location": "Africa and Asia",
+    "conservation_status": "Vulnerable",
+    "weight": 249,
+    "habitat": "Open woodland, scrub, and long grasslands",
+    "photo_url": "https://a-z-animals.com/media/2022/09/iStock-492611032-1024x682.jpg"
+  }, {
+    "name": "Bengal Tiger",
+    "population": 3500,
+    "location": "Asia",
+    "conservation_status": "Endangered",
+    "weight": 300,
+    "habitat": "Dense tropical forest and mangroves",
+    "photo_url": "https://a-z-animals.com/media/2021/11/Bengal-tiger-1024x535.jpg"
+  }, {
+    "name": "Javan Rhinoceros",
+    "population": 72,
+    "location": "Southeast Asia",
+    "conservation_status": "Critically endangered",
+    "weight": 2313,
+    "habitat": "Tropical bushland, grassland, and rainforest",
+    "photo_url": "https://a-z-animals.com/media/2021/07/Javan-Rhinoceros-1024x535.jpg"
+  }, {
+    "name": "Nile Crocodile",
+    "population": 50000,
+    "location": "Africa",
+    "conservation_status": "Least concerned",
+    "weight": 748,
+    "habitat": "Mangrove swamps, rivers, and freshwater marshes",
+    "photo_url": "https://a-z-animals.com/media/2022/09/shutterstock_301473404-e1664774905269-1024x683.jpg"
+  }, {
+    "name": "Great White Shark",
+    "population": 3500,
+    "location": "All oceans worldwide",
+    "conservation_status": "Vulnerable",
+    "weight": 2267,
+    "habitat": "Oceans",
+    "photo_url": "https://a-z-animals.com/media/2022/09/shutterstock_1683088564-1024x768.jpg"
+  }, {
+    "name": "Blue Whale",
+    "population": 10000,
+    "location": "All oceans, except Arctic",
+    "conservation_status": "Endangered",
+    "weight": 159664,
+    "habitat": "Deep temperate cold region waters are preferred",
+    "photo_url": "https://a-z-animals.com/media/2021/10/What-do-blue-whales-eat-header-e1658345934537-1024x535.jpg"
+  }, {
+    "name": "Golden Eagle",
+    "population": 85000,
+    "location": "Africa, Asia, Eurasia, Europe, and North America",
+    "conservation_status": "Least concerned",
+    "weight": 6,
+    "habitat": "Mountains, canyons, and riverside cliffs",
+    "photo_url": "https://a-z-animals.com/media/2022/12/shutterstock_700068394-1024x667.jpg"
+  }, {
+    "name": "Emperor Penguin",
+    "population": 625000,
+    "location": "Antarctica, Ocean",
+    "conservation_status": "Least concerned",
+    "weight": 45,
+    "habitat": "Compact sea-ice and ocean",
+    "photo_url": "https://a-z-animals.com/media/2022/07/iStock-146729730-1536x1024.jpg"
+  }, {
+    "name": "Common Raven",
+    "population": 16000000,
+    "location": "Africa, Asia, Central America, Eurasia, Europe, and North America",
+    "conservation_status": "Least concerned",
+    "weight": 1,
+    "habitat": "Forests, deserts, coastal areas, and tundra across the Northern Hemisphere",
+    "photo_url": "https://a-z-animals.com/media/2021/10/raven-1-1024x535.jpg"
+  }]
+}
